@@ -7,9 +7,9 @@
 </p>
 
 ## 🔗 Xem chi tiết Profile tại đây !!
-[![Pr5 NhanNG](https://img.shields.io/badge/Xem%20Chi%20Tiết-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://anhbohelloteam.github.io/NhanNGpro5/)
-[![Pr5 NhanNG](https://img.shields.io/badge/Xem%20Chi%20Tiết-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://anhbohelloteam.github.io/NhanNGpro5/)
-[![Pr5 NhanNG](https://img.shields.io/badge/Xem%20Chi%20Tiết-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://anhbohelloteam.github.io/NhanNGpro5/)
+[![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
+[![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
+[![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
 
 ---
 
