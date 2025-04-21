@@ -7,7 +7,7 @@
 </p>
 
 ## 🔗 Xem chi tiết Profile tại đây !!
-[![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
+[![Pr5 NhanNG](https://nhanngfolio.onrender.com)
 [![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
 [![Pr5 NhanNG](https://nhanngfolio.onrender.com/)
 
