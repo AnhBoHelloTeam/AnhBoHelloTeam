@@ -2,92 +2,67 @@
   <img src="https://github.com/AnhBoHelloTeam/AnhBoHelloTeam/blob/main/backPro.png?raw=true" alt="Banner" width="100%"/>
 </p>
 
-# 👋 Hi, I'm Nguyễn Thành Nhân (NhanNG)
-💻 Fullstack Developer | 🚀 Always Learning & Innovating  
+<h1 align="center">👋 Hi, I'm Nguyễn Thành Nhân (NhanNG)</h1>
+<h3 align="center">💻 Fullstack Developer | 🚀 Always Learning & Innovating</h3>
 
-> *Turning ideas into software – from frontend to backend, web to mobile, automation to AI.*  
+<p align="center">
+  <em>Turning ideas into software – from frontend to backend, web to mobile, automation to AI.</em>
+</p>
 
 ---
 
 ## 🔗 Quick Links  
-[![3D Portfolio](https://img.shields.io/badge/3D_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://nhanng-3dportfolio.onrender.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnhBoHelloTeam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-979675355/)  
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://nhanngfolio.onrender.com)  
+<p align="center">
+  <a href="https://nhanng-3dportfolio.onrender.com/"><img src="https://img.shields.io/badge/3D_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white"/></a>
+  <a href="https://github.com/AnhBoHelloTeam"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-979675355/"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://nhanngfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Software Engineering Student at **Vietnam DongA University**  
-- 💼 Fullstack Developer with **Web & Mobile experience**  
-- 🌱 Currently learning **C++, Node.js, Spring Boot, Python, Flutter & Dart**  
-- 🔍 Open to **internship & job opportunities in Da Nang**  
-- 📧 Contact me: **[nhanng.thdhk4@gmail.com](mailto:nhanng.thdhk4@gmail.com)**  
+## 👨‍💻 About Me  
+- 🎓 Software Engineering Student at **DongA University, Vietnam**  
+- 💼 Fullstack Developer (Web & Mobile)  
+- 🌱 Exploring **C++, Node.js, Spring Boot, Python, Flutter & Dart**  
+- 📍 Based in **Da Nang** – Open for **Internships & Job Opportunities**  
+- 📧 Reach me at **[nhanng.thdhk4@gmail.com](mailto:nhanng.thdhk4@gmail.com)**  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
 | **Languages** | **Frameworks** | **Databases** | **Tools** |
 |---------------|----------------|---------------|-----------|
-| JavaScript, TypeScript, Java, Python, Dart, C++, PHP, Kotlin | Node.js, React, Next.js, NestJS, Spring Boot, Express.js, Django, Flask, Flutter, Laravel | MongoDB, MySQL, PostgreSQL, SQL Server | Git, Docker, Postman, VS Code, IntelliJ IDEA, Figma, Canva, n8n, Make.com |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white) |
 
 ---
 
-## 💼 Work Experience  
+## 💼 Experience  
 
-### **COWI Autobiz**  
-*Automation & Workflow Assistant (n8n) | JUNE 2025 – PRESENT*  
-- Created automation workflows with n8n to support operations  
-- Integrated systems to reduce manual tasks & improve data flow  
-- Monitored automation processes for stability and performance  
+**COWI Autobiz** – *Automation & Workflow Assistant (n8n)* `Jun 2025 – Present`  
+> ⚡ Designed automation workflows, integrated systems, and improved operational efficiency.  
 
----
+**Freelancer** – *Web/Mobile Developer* `May 2025 – Present`  
+> 🚀 Built apps with React, Node.js, Flutter & MongoDB for global clients.  
 
-### **Independent Contractor**  
-*Freelance Web/Mobile Developer | May 2025 – Present*  
-- Built projects for international clients (React, Node.js, Flutter, MongoDB)  
-- Deployed to cloud platforms, provided technical support  
-- Communicated directly with clients for requirements & updates  
+**ICT Đồng Á** – *Junior Full Stack Developer* `May 2025 – Aug 2025`  
+> 🛒 Developed souvenir e-commerce website (cart, payment, chat, promo features).  
 
----
+**Independent Contractor** – *IT Support Assistant* `Dec 2022 – Nov 2024`  
+> 🛠️ Maintained systems, installed OS/dev tools, supported faculty & students.  
 
-### **ICT Đồng Á**  
-*Junior Full Stack Developer | May 2025 – Aug 2025*  
-- Developed souvenir e-commerce website with cart, payment, promotions  
-- Implemented WebSocket for real-time chat/messaging  
-- Enhanced backend (Node.js, MongoDB) & frontend (React.js)  
+**Chinh Nguyen Computer** – *Sales Consultant & Tech Support* `Sep 2022 – Nov 2024`  
+> 💡 Hardware/software consulting, SEO & ads, PC assembly & repair.  
 
 ---
 
-### **Independent Contractor**  
-*IT Support Assistant (Part-time) | Dec 2022 – Nov 2024*  
-- Troubleshot software & hardware for students and faculty  
-- Installed OS & dev tools, improved performance guidance  
+## 🚀 Featured Projects  
 
----
-
-### **Chinh Nguyen Computer**  
-*Sales Consultant & Technical Support | Sep 2022 – Nov 2024*  
-- Advised customers on hardware/software solutions  
-- Repaired systems, installed software, configured PCs  
-- Assisted with SEO & online advertisement posting  
-
----
-
-## 🚀 Projects  
-
-### 🛒 **E-commerce & Shopping Platforms**
-- [![Shop Frontend React](https://img.shields.io/badge/Shop_Frontend_React-000000?style=flat&logo=react&logoColor=61DAFB)](https://shop-frontend-8yko.onrender.com)  
-- [![Shop Frontend Flutter](https://img.shields.io/badge/Shop_Frontend_Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://shop-flutter-lc992.firebaseapp.com)  
-- [![Souvenir E-commerce](https://img.shields.io/badge/Souvenir_Ecommerce-FF6B35?style=flat&logo=shopify&logoColor=white)](https://fe-webdoluuniem.onrender.com)  
-- [![Fastfood WebApp](https://img.shields.io/badge/Fastfood_WebApp-E0234E?style=flat&logo=nestjs&logoColor=white)](https://fastfood-app-netjs-fontent.onrender.com)  
-
-### 🎨 **Portfolio & Applications**
-- [![3D Portfolio](https://img.shields.io/badge/3D_Portfolio-61DAFB?style=flat&logo=react&logoColor=white)](https://nhanng-3dportfolio.onrender.com/)  
-- [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://nhanngfolio.onrender.com)  
-- [![Threads App](https://img.shields.io/badge/Threads_App-000000?style=flat&logo=threads&logoColor=white)](https://threads-aplication.onrender.com/)  
-- [![Comics Reader](https://img.shields.io/badge/Comics_Reader-FF6B35?style=flat&logo=book&logoColor=white)](https://reactapireadtruyennhanng.onrender.com)  
+- 🛒 [**E-commerce Platforms**](https://fe-webdoluuniem.onrender.com) – Shopping apps in **React, Flutter, NestJS**  
+- 🎨 [**3D Portfolio**](https://nhanng-3dportfolio.onrender.com) – Interactive 3D personal site  
+- 💬 [**Threads Clone**](https://threads-aplication.onrender.com) – Social app with threads UI  
+- 📚 [**Comics Reader**](https://reactapireadtruyennhanng.onrender.com) – Manga reading web app  
 
 ---
 
@@ -103,30 +78,21 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnhBoHelloTeam&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnhBoHelloTeam&theme=radical&column=6" />
 </p>  
-
----
-
-## 🌟 Interests
-- 🤖 AI & Automation Tools  
-- 🎨 UI/UX Design  
-- 📖 Open-source contributions  
-- ✍️ Tech blogging & knowledge sharing  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnhBoHelloTeam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-979675355/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/NhanNG2125)  
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/29963055/nh%c3%a2n-nguy%e1%bb%85n)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhanng.thdhk4@gmail.com)  
+<p align="center">
+  <a href="https://github.com/AnhBoHelloTeam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-979675355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/NhanNG2125"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/29963055/nh%c3%a2n-nguy%e1%bb%85n"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="mailto:nhanng.thdhk4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### ⭐ Support My Work  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-BF005C?style=for-the-badge&logo=kofi)](https://github.com/AnhBoHelloTeam)  
-
-🔥 *Thanks for visiting! If you like my work, please ⭐ my repositories!* 😃
+<p align="center">🔥 <em>Thanks for visiting! If you like my work, please ⭐ my repositories!</em> 😃</p>
