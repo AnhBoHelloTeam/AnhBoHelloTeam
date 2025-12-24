@@ -13,7 +13,7 @@
 
 ## 🔗 Quick Links  
 <p align="center">
-  <a href="https://nhanng-3dportfolio.onrender.com/"><img src="https://img.shields.io/badge/3D_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white"/></a>
+  <a href="https://nhanng-3dporfolio.vercel.app/"><img src="https://img.shields.io/badge/3D_Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white"/></a>
   <a href="https://github.com/AnhBoHelloTeam"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-979675355/"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://nhanngfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
@@ -60,7 +60,7 @@
 ## 🚀 Featured Projects  
 
 - 🛒 [**E-commerce Platforms**](https://fe-webdoluuniem.onrender.com) – Shopping apps in **React, Flutter, NestJS**  
-- 🎨 [**3D Portfolio**](https://nhanng-3dportfolio.onrender.com) – Interactive 3D personal site  
+- 🎨 [**3D Portfolio**](https://nhanng-3dporfolio.vercel.app/) – Interactive 3D personal site  
 - 💬 [**Threads Clone**](https://threads-aplication.onrender.com) – Social app with threads UI  
 - 📚 [**Comics Reader**](https://reactapireadtruyennhanng.onrender.com) – Manga reading web app  
 
