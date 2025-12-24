@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AnhBoHelloTeam/AnhBoHelloTeam/blob/main/backPro.png?raw=true" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AnhBoHelloTeam/AnhBoHelloTeam/refs/heads/main/nhanng-3dporfolio.vercel.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Nguyễn Thành Nhân (NhanNG)</h1>
