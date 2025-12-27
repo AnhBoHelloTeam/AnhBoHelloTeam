@@ -96,6 +96,5 @@
 ---
 
 <p align="center">🔥 <em>Thanks for visiting! If you like my work, please ⭐ my repositories!</em> 😃</p>
-<p align="center">🔥 <em>Thanks for visiting! If you like my work, please ⭐ my repositories!</em> 😃</p>
-<p align="center">🔥 <em>Thanks for visiting! If you like my work, please ⭐ my repositories!</em> 😃</p>
+
 
